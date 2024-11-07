@@ -1,6 +1,6 @@
 import * as utils from './utils.js';
 
-const REPO = 'apache/superset';
+const REPO = 'viveksingh27/bi-superset';
 const CACHE_REPO = `${REPO}-cache`;
 const BASE_PY_IMAGE = '3.10-slim-bookworm';
 
